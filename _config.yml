@@ -51,11 +51,11 @@ author:
 footer: # Site footer
   links: # Footer links
     - label: "LinkedIn" # Twitter link
-      icon: "assets/images/linkedin_logo.png"
+      icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/sean-mcdermott-4ba8b43b0"
       target: "_blank"
     - label: "LinkedIn" # Facebook link
-      icon: "assets/images/linkedin_logo.png"
+      icon: "fa-brands fa-linkedin"
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
