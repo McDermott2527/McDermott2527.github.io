@@ -37,3 +37,7 @@ pages:
     url: /pages/single/
   - title: "Splash Layout"
     url: /pages/splash/
+
+About:
+ - title: "About Me"
+   url: /pages/About_Me/
