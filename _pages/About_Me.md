@@ -1,6 +1,10 @@
 title: "About Me"
 layout: default
 permalink: /pages/About_Me/
+sidebar:
+  title: "About Me"
+  nav:
+    - About Me
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
