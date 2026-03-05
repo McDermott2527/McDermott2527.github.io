@@ -1,7 +1,9 @@
 # main links
 main:
   - title: "Home"
-    url: /
+    url: / 
+  - title: "About Me"
+   url: /pages/About_Me/
   - title: "Projects"
     url: /projects/
     children:
@@ -38,6 +40,4 @@ pages:
   - title: "Splash Layout"
     url: /pages/splash/
 
-about:
- - title: "About Me"
-   url: /pages/About_Me/
+
