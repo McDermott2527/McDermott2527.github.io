@@ -54,7 +54,7 @@ footer: # Site footer
       icon: "fab fa-fw fa-twitter-square"
       url: "https://www.linkedin.com/in/sean-mcdermott-4ba8b43b0"
       target: "_blank"
-    - label: "Facebook" # Facebook link
+    - label: "LinkedIn" # Facebook link
       icon: "fab fa-fw fa-linkedin"
       # url:
       target: "_blank"
