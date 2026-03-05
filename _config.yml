@@ -50,12 +50,12 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "Twitter" # Twitter link
+    - label: "LinkedIn" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
       target: "_blank"
     - label: "Facebook" # Facebook link
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-linkedin"
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
