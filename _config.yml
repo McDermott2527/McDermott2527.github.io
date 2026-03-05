@@ -52,7 +52,7 @@ footer: # Site footer
   links: # Footer links
     - label: "LinkedIn" # Twitter link
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/sean-mcdermott-4ba8b43b0"
       target: "_blank"
     - label: "Facebook" # Facebook link
       icon: "fab fa-fw fa-linkedin"
