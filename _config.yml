@@ -50,12 +50,13 @@ author:
 # Site Footer
 footer: # Site footer
   links: # Footer links
-    - label: "LinkedIn" # Twitter link
+    - label: "LinkedIn" # LinkedIn link
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/sean-mcdermott-4ba8b43b0"
       target: "_blank"
-    - label: "LinkedIn" # Facebook link
-      icon: "fa-brands fa-linkedin"
+    - label: "Github" # Github link
+      icon: "fa-brands fa-github"
+      url: "https://github.com/McDermott2527/McDermott2527.github.io"
       # url:
       target: "_blank"
     - label: "GitHub" # GitHub link
