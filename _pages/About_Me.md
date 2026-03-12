@@ -4,7 +4,7 @@ layout: default
 permalink: /about-me/
 ---
 
-{% include skills skills=page.skills %}
+include skills skills=page.skills 
 
 {% include download
   title="Download my Project Proposal"
