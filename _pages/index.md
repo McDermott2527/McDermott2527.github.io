@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholder.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "https://ulster-my.sharepoint.com/:w:/r/personal/mcdermott-s27_ulster_ac_uk/Documents/Sean-McDermott-B01022849-CRE136.docx?d=wff686a6ca06946ffbf56b13ace50b8dc&csf=1&web=1&e=2UnGYh"
       target: "_blank"
 
 
