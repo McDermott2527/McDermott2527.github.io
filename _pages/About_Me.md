@@ -5,7 +5,7 @@ permalink: /pages/About_Me/
 ---
 
 This page uses the `default` layout. It is a minimal wrapper around your content.
-You can use it for simple pages where you want full control over the markup.
+You can use it for simple pages where you want full control over the markup. 
 
 {% include download
   title="Download my Project Proposal"
