@@ -20,7 +20,7 @@ main:
         url: /pages/splash/
   - title: "Components"
     url: /components/
-  - title: "About-Me"
+  - title: "About Me"
     url: /about-me/
 
 # Sidebar menu for the Projects page
