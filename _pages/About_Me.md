@@ -6,14 +6,20 @@ permalink: /about-me/
 skills:
   - name: "Unreal Engine 5"
     icon: "fa-brands fa-unreal-engine"
-    badges: ["C#", "Game Dev"]
-    text: "Built multiple prototypes and a published jam game."
+    badges: ["C++", "Game Dev"]
+    text: "Created a few game prototypes and a functional game"
     years: 2
+    - name: "Unity"
+    icon: "fa-brands fa-unity"
+    badges: ["C#", "Game Dev"]
+    text: "Developing prototypes alone and in a group"
+    years: 1
   - name: "Game Design"
     icon: "fas fa-fw fa-gamepad"
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+  
 ---
 
 {% include skills skills=page.skills %}
