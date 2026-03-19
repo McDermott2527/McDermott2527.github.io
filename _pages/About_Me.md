@@ -4,7 +4,7 @@ layout: default
 permalink: /about-me/
 ---
 
-include skills skills=page.skills 
+{% include skills skills=page.skills %}
 
 {% include figure image_path="assets/images/WIP.jpg" alt="WIP IMAGE" caption="Work in Progress" %}
 
