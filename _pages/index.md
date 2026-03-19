@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/CVScreenshot.png
   actions:
     - label: "Download CV"
-      url: "file:///C:/Users/B01022849/Downloads/Sean-McDermott-B01022849-CRE136.cleaned.pdf"
+      url: "https://acrobat.adobe.com/id/urn:aaid:sc:EU:51bdf8d9-e8da-41fa-bc52-9e01e446657a"
       target: "_blank"
 
 
