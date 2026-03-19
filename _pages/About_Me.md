@@ -4,8 +4,8 @@ layout: default
 permalink: /about-me/
 
 skills:
-  - name: "Unity"
-    icon: "fab fa-fw fa-unity"
+  - name: "Unreal Engine 5"
+    icon: "fa-brands fa-unreal-engine"
     badges: ["C#", "Game Dev"]
     text: "Built multiple prototypes and a published jam game."
     years: 2
