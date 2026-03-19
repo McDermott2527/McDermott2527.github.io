@@ -6,7 +6,7 @@ permalink: /about-me/
 
 include skills skills=page.skills 
 
-include figure image_path="/assets/images/placeholder-2.png" alt="Game Jam screenshot" caption="This is a caption" 
+include figure image_path="assets/images/WIP.jpg" alt="WIP IMAGE" caption="Work in Progress" 
 
 {% include google-form
   title="Contact Me"
