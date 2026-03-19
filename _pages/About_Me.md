@@ -14,6 +14,11 @@ skills:
     badges: ["Game Mechanics", "Levels", "UI"]
     text: "Designed mechanics, levels, and player feedback loops."
     level_label: "Beginner"
+       - name: "Unity"
+    icon: "fa-brands fa-unity"
+    badges: ["C#", "Game Dev"]
+    text: "Developing prototypes alone and in a group"
+    years: 1
   
 ---
 
