@@ -20,17 +20,14 @@ feature_row:
     alt: "Medieval Scrimmage"
     title: "Medieval Scrimmage"
     excerpt: "A 2D Beat-Em-Up style group project"
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 4"
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/2DGame.png
+    alt: "2D Game Project"
+    title: "2D Game Project"
+    excerpt: "A simple 2D platforming game"
+  - image_path: assets/images/3DGame.png
+    alt: "3D Game Project"
+    title: "3D Game Project"
+    excerpt: "A 3D platforming type game"
 ---
 
 {% include feature_row id="intro" type="center" %}
