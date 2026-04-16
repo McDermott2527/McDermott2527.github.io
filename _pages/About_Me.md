@@ -22,7 +22,7 @@ skills:
 
 work experience:
   - name: "Sales Assistant"
-    badges:["Teamwork", "Customer Service"]
+    badges: ["Teamwork", "Customer Service"]
     text: "Working as a cashier to check out customers and help around the store"
     employment: "Dec 2025 - Current"
   
