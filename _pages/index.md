@@ -14,7 +14,7 @@ header:
 
 excerpt: "Welcome!"
 intro: 
-  - excerpt: 'A bit about me...'
+  - excerpt: ## 'Projects I've made'
 feature_row:
   - image_path: assets/images/MedScrim.png
     alt: "Medieval Scrimmage"
