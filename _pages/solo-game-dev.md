@@ -18,6 +18,8 @@ I liked how the level felt challenging, especially in the final jump, to those w
 I didn't like how the atmosphere felt and that I could have made the industrial atmosphere come across stronger.
 For future projects I'll try to spend more time polishing the atmosphere and making it feel better.
 
+{% include video id="j8D5WK-TiU" provider="youtube" %}
+
 ## 2D Game Development
 For this I'll show off another platforming game I developed on my own.
 In this game you play as a knight that traverses through a dangerous level avoiding enemies and pitfalls.
