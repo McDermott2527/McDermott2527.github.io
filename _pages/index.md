@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/placeholder.png
   actions:
-    - label: "Download CV"
+    - label: "Read CV"
       url: "assets/downloads/B01022849-  Sean.cleaned.pdf"
       target: "_blank"
 
