@@ -10,7 +10,7 @@ header:
     - label: "Download CV"
       url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
       target: "_blank"
-  
+
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
 feature_row:
