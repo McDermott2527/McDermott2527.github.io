@@ -16,10 +16,10 @@ excerpt: "Welcome!"
 intro: 
   - excerpt: 'A bit about me...'
 feature_row:
-  - image_path: /assets/images/placeholder.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/MedScrim.png
+    alt: "Medieval Scrimmage"
+    title: "Medieval Scrimmage"
+    excerpt: "A 2D Beat-Em-Up style group project"
   - image_path: /assets/images/placeholder.png
     alt: "placeholder image 2"
     title: "Placeholder 2"
