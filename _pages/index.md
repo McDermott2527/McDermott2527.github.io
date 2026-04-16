@@ -6,7 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/CVScreenshot.png
-
+  include download
+  title="Download my CV"
+  url="assets/downloads/B01022849-  Sean.cleaned.pdf"
+  button_label="Download here"
+  download="B01022849-  Sean.cleaned.pdf"
+  
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
 feature_row:
@@ -24,11 +29,7 @@ feature_row:
     excerpt: "A 3D platforming type game"
 ---
 
- {% include download
-  title="Download my CV"
-  url="assets/downloads/B01022849-  Sean.cleaned.pdf"
-  button_label="Download here"
-  download="B01022849-  Sean.cleaned.pdf"
+ {% 
 %}
 
 {% include button
