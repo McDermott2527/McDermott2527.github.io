@@ -19,12 +19,16 @@ skills:
     badges: ["C#", "Game Dev"]
     text: "Developing prototypes alone and in a group"
     years: 1
+
+work experience:
+  - name: "Sales Assistant"
+    badges:["Teamwork", "Customer Service"]
+    text: "Working as a cashier to check out customers and help around the store"
+    employment: "Dec 2025 - Current"
   
 ---
 
 {% include skills skills=page.skills %}
-
-{% include figure image_path="assets/images/WIP.jpg" alt="WIP IMAGE" caption="Work in Progress" %}
 
 {% include google-form
   title="Contact Me"
