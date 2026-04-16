@@ -7,9 +7,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/CVScreenshot.png
   actions:
-    - label: "Download CV"
-      url: "https://acrobat.adobe.com/id/urn:aaid:sc:EU:51bdf8d9-e8da-41fa-bc52-9e01e446657a"
-      target: "_blank"
+  {% include download
+  title="Download my Project Proposal"
+  url="/assets/downloads/Project-proposal.pdf"
+  button_label="Download Project Proposal"
+  download="Project-proposal.pdf"
+%}
+
 
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
