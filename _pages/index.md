@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: assets/images/CVScreenshot.png
   actions:
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
+  title= "Download my Project Proposal"
+  url= "/assets/downloads/Project-proposal.pdf"
+  button_label= "Download Project Proposal"
+  download= "Project-proposal.pdf"
 
 
 
