@@ -15,3 +15,7 @@ It's about a peasant who goes on a quest to defeat an evil king to avenge the ex
 
 The game features multiple waves and enemy types, many player weapons and pickups and bosses.
 So far on the game, I've contributed UI features, combo and projectile systems, bug fixes and much more.
+
+Below is an early development video of how the game is progressing.
+
+{% include video id="mvVwQBCwJiI" provider="youtube" %}
