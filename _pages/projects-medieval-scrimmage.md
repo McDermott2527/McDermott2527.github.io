@@ -3,10 +3,9 @@ title: "Medieval Scrimmage"
 layout: single
 permalink: /projects/medieval-scrimmage/
 sidebar:
-  title: "MedievalScrimmage"
+  title: "Projects"
   nav:
-    - MedievalScrimmage
-
+    - projects
 ---
 Medieval Scrimmage is the most recent game development project that I've been working on.
 
