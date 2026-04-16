@@ -3,14 +3,13 @@ title: "Portfolio Website"
 layout: splash
 permalink: /
 header:
-  overlay_color: "#000"
+   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/CVScreenshot.png
-  include download
-  title="Download my CV"
-  url="assets/downloads/B01022849-  Sean.cleaned.pdf"
-  button_label="Download here"
-  download="B01022849-  Sean.cleaned.pdf"
+  overlay_image: /assets/images/placeholder.png
+  actions:
+    - label: "Download CV"
+      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      target: "_blank"
   
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
