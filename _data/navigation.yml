@@ -25,8 +25,8 @@ main:
 
 # Sidebar menu for the Projects page
 projects:
-  - title: "Game Jam"
-    url: /projects/game-jam/
+  - title: "Medieval Scrimmage"
+    url: /projects/medieval-scrimmage/
   - title: "Capstone"
     url: /projects/capstone/
 
