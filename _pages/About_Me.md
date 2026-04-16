@@ -20,7 +20,7 @@ skills:
     text: "Developing prototypes alone and in a group"
     years: 1
 
-work experience:
+work-experience:
   - name: "Sales Assistant"
     badges: ["Teamwork", "Customer Service"]
     text: "Working as a cashier to check out customers and help around the store"
@@ -29,6 +29,8 @@ work experience:
 ---
 
 {% include skills skills=page.skills %}
+
+{% include work-experience work-experience=page.work-experience %}
 
 {% include google-form
   title="Contact Me"
