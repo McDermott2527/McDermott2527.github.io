@@ -6,13 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/CVScreenshot.png
-  actions:
-  title= "Download my Project Proposal"
-  url= "/assets/downloads/Project-proposal.pdf"
-  button_label= "Download Project Proposal"
-  download= "Project-proposal.pdf"
-
-
 
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
@@ -30,6 +23,14 @@ feature_row:
     title: "3D Game Project"
     excerpt: "A 3D platforming type game"
 ---
+
+ {% include download
+  title="Download my Project Proposal"
+  url="/assets/downloads/Project-proposal.pdf"
+  button_label="Download Project Proposal"
+  download="Project-proposal.pdf"
+%}
+
 {% include button
   url="/projects/"
   label="See More Projects"
