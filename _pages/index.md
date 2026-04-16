@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholder.png
   actions:
     - label: "Download CV"
-      url: "https://drive.google.com/file/d/1ePqrAcar-abcMBgLCd7uo0HUbZDd929t/preview"
+      url: "assets/downloads/B01022849-  Sean.cleaned.pdf"
       target: "_blank"
 
 excerpt: "Welcome to my portfolio website"
