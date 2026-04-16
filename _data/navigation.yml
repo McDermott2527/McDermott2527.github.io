@@ -27,8 +27,8 @@ main:
 projects:
   - title: "Medieval Scrimmage"
     url: /projects/medieval-scrimmage/
-  - title: "Capstone"
-    url: /projects/capstone/
+  - title: "Solo Game Development"
+    url: /projects/solo-game-dev/
 
 # Sidebar menu for the Pages page
 pages:
