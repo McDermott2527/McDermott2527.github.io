@@ -18,6 +18,8 @@ I liked how the level felt challenging, especially in the final jump, to those w
 I didn't like how the atmosphere felt and that I could have made the industrial atmosphere come across stronger.
 For future projects I'll try to spend more time polishing the atmosphere and making it feel better.
 
+Below is a video showing off the gameplay and process of how I made the game:
+
 {% include video id="OJrtP0v7w-0" provider="youtube" %}
 
 ## 2D Game Development
@@ -30,5 +32,7 @@ The quality of these assets vary due to my inexperience with art.
 I liked how the level design turned out, with the level offering different challenges throughout and requiring precise inputs to avoid.
 I didn't like how some features needed to be cut, such as player attacks, due to time constraints.
 This taught me to be aware of remaining time and pace myself so I can get the features I want done with good time left for future projects.
+
+Below is a video showing off the gameplay and process of how I made the game:
 
 {% include video id="_j8D5WK-TiU" provider="youtube" %}
