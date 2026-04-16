@@ -1,7 +1,7 @@
 ---
 title: "Medieval Scrimmage"
 layout: single
-permalink: /projects/medieval-scrimmage/
+permalink: /projects/game-jam/
 sidebar:
   title: "MedievalScrimmage"
   nav:
