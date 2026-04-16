@@ -28,9 +28,6 @@ feature_row:
     excerpt: "A 3D platforming type game"
 ---
 
- {% 
-%}
-
 {% include button
   url="/projects/"
   label="See More Projects"
