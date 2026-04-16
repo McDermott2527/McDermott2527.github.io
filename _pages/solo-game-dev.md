@@ -31,4 +31,4 @@ I liked how the level design turned out, with the level offering different chall
 I didn't like how some features needed to be cut, such as player attacks, due to time constraints.
 This taught me to be aware of remaining time and pace myself so I can get the features I want done with good time left for future projects.
 
-
+{% include video id="_j8D5WK-TiU" provider="youtube" %}
