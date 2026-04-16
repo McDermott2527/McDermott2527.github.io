@@ -5,10 +5,10 @@ main:
   - title: "Projects"
     url: /projects/
     children:
-      - title: "Game Jam"
-        url: /projects/game-jam/
-      - title: "Capstone"
-        url: /projects/capstone/
+      - title: "Medieval Scrimmage"
+        url: /projects/medieval-scrimmage/
+      - title: "Solo Game Development"
+        url: /projects/solo-game-dev/
   - title: "Pages"
     url: /pages/
     children:
