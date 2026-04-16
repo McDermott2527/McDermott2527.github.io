@@ -12,9 +12,8 @@ header:
       target: "_blank"
 
 
-excerpt: "Welcome!"
-intro:
-excerpt: "Projects I've worked on"
+excerpt: "Welcome to my portfolio website"
+## Projects I've worked on
 feature_row:
   - image_path: assets/images/MedScrim.png
     alt: "Medieval Scrimmage"
