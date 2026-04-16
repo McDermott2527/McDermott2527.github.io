@@ -1,5 +1,5 @@
 ---
-title: "Game Jam"
+title: "Medieval Scrimmage"
 layout: single
 permalink: /projects/game-jam/
 sidebar:
