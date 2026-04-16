@@ -25,10 +25,10 @@ feature_row:
 ---
 
  {% include download
-  title="Download my Project Proposal"
-  url="/assets/downloads/Project-proposal.pdf"
-  button_label="Download Project Proposal"
-  download="Project-proposal.pdf"
+  title="Download my CV"
+  url="assets/downloads/B01022849-  Sean.cleaned.pdf"
+  button_label="Download here"
+  download="B01022849-  Sean.cleaned.pdf"
 %}
 
 {% include button
