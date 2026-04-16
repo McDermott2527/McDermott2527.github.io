@@ -13,7 +13,7 @@ header:
 
 
 excerpt: "Welcome!"
-intro:
+intro: 
   - excerpt: 'Projects I've made'
 feature_row:
   - image_path: assets/images/MedScrim.png
