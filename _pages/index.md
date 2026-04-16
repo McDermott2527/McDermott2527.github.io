@@ -11,6 +11,12 @@ header:
       url: "https://acrobat.adobe.com/id/urn:aaid:sc:EU:51bdf8d9-e8da-41fa-bc52-9e01e446657a"
       target: "_blank"
 
+{% include button
+  url="/About_Me/"
+  label="See more about me"
+  class="btn--primary"
+%}
+
 
 excerpt: "Welcome to my portfolio website"
 ## Projects I've worked on
@@ -28,6 +34,12 @@ feature_row:
     title: "3D Game Project"
     excerpt: "A 3D platforming type game"
 ---
+
+{% include button
+  url="/projects/"
+  label="Find out more"
+  class="btn--primary"
+%}
 
 {% include feature_row id="intro" type="center" %}
 
