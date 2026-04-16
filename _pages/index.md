@@ -26,13 +26,15 @@ feature_row:
     alt: "3D Game Project"
     title: "3D Game Project"
     excerpt: "A 3D platforming type game"
----
 
 {% include button
   url="/projects/"
   label="Find out more"
   class="btn--primary"
 %}
+---
+
+
 
 {% include feature_row id="intro" type="center" %}
 
