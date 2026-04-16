@@ -29,7 +29,7 @@ feature_row:
 ---
 {% include button
   url="/projects/"
-  label="Find out more"
+  label="See More Projects"
   class="btn--primary"
 %}
 
