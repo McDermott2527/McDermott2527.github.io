@@ -23,3 +23,5 @@ As the game was finishing up, I was tasked with making a trailer for the game on
 The trailer was so that people could see what we have to offer and become interested in it.
 
 Below is the trailer for Medieval Scrimmage.
+
+{% include video id="rCA0sHs24kQ" provider="youtube" %}
