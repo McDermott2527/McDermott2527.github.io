@@ -1,5 +1,5 @@
 # Basic site settings (edit these first)
-title: "Portfolio Website" # Site title shown in the browser and header
+title: "Sean's Portfolio Website" # Site title shown in the browser and header
 title_separator: "-"
 subtitle: "Sean's Site for Portfolio" # site tagline that appears below site title in masthead
 description: "A simple portfolio starter for games students." # Short site summary
