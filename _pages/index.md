@@ -26,6 +26,9 @@ feature_row:
     alt: "3D Game Project"
     title: "3D Game Project"
     excerpt: "A 3D platforming type game"
+
+## Video I've edited
+{% include video id="rCA0sHs24kQ" provider="youtube" %}
 ---
 
 {% include button
