@@ -7,6 +7,11 @@ sidebar:
   nav:
     - projects
 ---
+image_path="assets/images/TitleScreen.png"
+alt="Medieval Scrimmage Logo"
+title="Medieval Scrimmage Logo"
+
+
 Medieval Scrimmage is the most recent game development project that I've been working on.
 
 The game is a 2D Beat 'Em Up style game.
