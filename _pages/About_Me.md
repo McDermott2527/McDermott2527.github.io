@@ -31,6 +31,6 @@ skills:
 
 {% include google-form
   title="Contact Me"
-  src="https://forms.gle/XsbApFoRjn7r24jy6"
+  src="https://forms.gle/xLp6m2uHt8w4MRsS7"
   height="800"
 %}
