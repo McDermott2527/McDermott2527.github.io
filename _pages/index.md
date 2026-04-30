@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/placeholder.png
+  overlay_image: 
   actions:
     - label: "Read CV"
       url: "assets/downloads/B01022849-  Sean.cleaned.pdf"
