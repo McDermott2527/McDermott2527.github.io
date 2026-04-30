@@ -20,7 +20,7 @@ skills:
     text: "Developing prototypes alone and in a group"
     years: 1
   - name: "Video Creation"
-    icon: "fa-brands fa-unity"
+    icon: "fa-solid fa-video"
     badges: ["Filming", "Photography", "Editing", "Scoring"]
     text: "Creating and editing videos of both real life and video games."
     years: 4
