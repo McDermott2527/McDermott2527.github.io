@@ -14,7 +14,7 @@ header:
 excerpt: "Take a look at what I've worked on, or read my CV below."
 ## Projects I've worked on
 feature_row:
-  - image_path: assets/images/MedScrim.png
+  - image_path: assets/images/TitleScreen.png
     alt: "Medieval Scrimmage"
     title: "Medieval Scrimmage"
     excerpt: "A 2D Beat-Em-Up style group project"
