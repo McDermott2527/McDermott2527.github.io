@@ -29,7 +29,7 @@ feature_row:
 
 ## Video I've edited
 
-{% include video id="rCA0sHs24kQ" provider="youtube" %}
+
 ---
 
 {% include button
@@ -42,3 +42,4 @@ feature_row:
 
 {% include feature_row %}
 
+{% include video id="rCA0sHs24kQ" provider="youtube" %}
