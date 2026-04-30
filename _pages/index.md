@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Website"
+title: "Welcome to my Portfolio Website"
 layout: splash
 permalink: /
 header:
@@ -11,7 +11,7 @@ header:
       url: "assets/downloads/B01022849-  Sean.cleaned.pdf"
       target: "_blank"
 
-excerpt: "Welcome to my portfolio website"
+excerpt: "Take a look at what I've worked on, or read my CV below."
 ## Projects I've worked on
 feature_row:
   - image_path: assets/images/MedScrim.png
