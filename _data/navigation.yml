@@ -9,17 +9,7 @@ main:
         url: /projects/medieval-scrimmage/
       - title: "Solo Game Development"
         url: /projects/solo-game-dev/
-  - title: "Pages"
-    url: /pages/
-    children:
-      - title: "Default Layout"
-        url: /pages/default/
-      - title: "Single Layout"
-        url: /pages/single/
-      - title: "Splash Layout"
-        url: /pages/splash/
-  - title: "Components"
-    url: /components/
+
   - title: "About Me"
     url: /about-me/
 
@@ -29,14 +19,5 @@ projects:
     url: /projects/medieval-scrimmage/
   - title: "Solo Game Development"
     url: /projects/solo-game-dev/
-
-# Sidebar menu for the Pages page
-pages:
-  - title: "Default Layout"
-    url: /pages/default/
-  - title: "Single Layout"
-    url: /pages/single/
-  - title: "Splash Layout"
-    url: /pages/splash/
 
 
