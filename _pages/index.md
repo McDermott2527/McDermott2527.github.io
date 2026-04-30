@@ -1,5 +1,6 @@
 ---
 title: "Welcome to my Portfolio Website"
+permalink: 
 layout: splash
 header:
   overlay_color: "#000"
