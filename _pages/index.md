@@ -28,6 +28,7 @@ feature_row:
     excerpt: "A 3D platforming type game"
 
 ## Video I've edited
+
 {% include video id="rCA0sHs24kQ" provider="youtube" %}
 ---
 
