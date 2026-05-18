@@ -8,7 +8,7 @@ header:
   overlay_image: 
   actions:
     - label: "Read CV"
-      url: "assets/downloads/B01022849-  Sean.cleaned.pdf"
+      url: ""
       target: "_blank"
 
 excerpt: "Take a look at what I've worked on, or read my CV below."
